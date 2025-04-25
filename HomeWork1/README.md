@@ -1,16 +1,10 @@
-# dz1
+# тут собвственно новостное приложение
+### Есть основной экран с новостями, в каждую новость можно провалиться, а также открыть ее в браузере
+### Скришоты работы:
 
-A new Flutter project.
+![Скриншот](../docs/dz1_1.jpg)
+![Скриншот](../docs/dz1_2.jpg)
+![Скриншот](../docs/dz1_3.jpg)
+![Скриншот](../docs/dz1_4.jpg)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
